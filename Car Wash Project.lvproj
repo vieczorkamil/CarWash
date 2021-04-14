@@ -22,9 +22,7 @@
 		<Item Name="controls" Type="Folder" URL="../controls">
 			<Property Name="NI.DISK" Type="Bool">true</Property>
 		</Item>
-		<Item Name="database" Type="Folder" URL="../database">
-			<Property Name="NI.DISK" Type="Bool">true</Property>
-		</Item>
+		<Item Name="Datebase" Type="Folder"/>
 		<Item Name="subVi" Type="Folder" URL="../subVi">
 			<Property Name="NI.DISK" Type="Bool">true</Property>
 		</Item>
